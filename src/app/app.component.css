@@ -1,0 +1,11 @@
+li {
+    display: inline-flex;
+    max-width: 120px;
+    margin-left:20px;
+    -webkit-text-fill-color: gray;
+    font-size: 24px;
+}
+a.active {
+    background-color: gray;
+
+}

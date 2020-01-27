@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'testAng';
+  public prop1="parent to child";
+  public childMessage=""
+  public links=["practice","empList","empDetail"];
 }
